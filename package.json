@@ -1,7 +1,7 @@
 {
   "name": "test-react",
   "version": "0.1.0",
-  "homepage": "https://IvanKirik.github.io/react-gh-pages",
+  "homepage": "https://IvanKirik.github.io/notes-react",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^5.1.4",

@@ -1,0 +1,15 @@
+.ant-modal-content {
+    padding: 0!important;
+    width: fit-content;
+}
+.ant-modal-footer {
+    display: none;
+}
+
+.ant-modal-header {
+    display: none;
+}
+
+.ant-modal-close {
+    display: none;
+}

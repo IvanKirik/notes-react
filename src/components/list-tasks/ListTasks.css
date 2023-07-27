@@ -1,0 +1,22 @@
+.list-tasks {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+
+}
+
+.tasks {
+    height: 100%;
+    background-color: #007bff0a;
+    border-radius: 5px;
+    padding: 10px;
+    width: 80%;
+    margin-right: 8px;
+    overflow-y: auto;
+}
+
+.header-task {
+    display: flex;
+    align-items: center;
+}
+

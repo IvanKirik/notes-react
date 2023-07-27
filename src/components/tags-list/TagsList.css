@@ -1,0 +1,29 @@
+.tags-list {
+    width: 20%;
+    border-radius: 5px;
+    background-color: rgba(255, 0, 0, 0.15);
+    height: 100%;
+    padding: 10px;
+}
+
+.tags-items {
+    display: flex;
+    align-items: center;
+    gap: 1px;
+    flex-wrap: wrap;
+}
+.tags-item {
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.tags-item.active {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.tags-item:hover {
+    text-decoration: underline;
+}
